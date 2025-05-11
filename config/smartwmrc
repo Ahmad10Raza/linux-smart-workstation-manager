@@ -1,0 +1,8 @@
+# User Config
+
+DEFAULT_EDITOR="code"
+DEFAULT_BROWSER="firefox"
+DISPLAY_OUTPUT="eDP-1"  # Run `xrandr` to get your correct display name
+
+BREAK_INTERVAL_MIN=60
+PDF_VIEWER="okular"
