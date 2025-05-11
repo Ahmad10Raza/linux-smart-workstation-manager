@@ -1,0 +1,15 @@
+smart-workstation-manager/
+├── smartwm.sh               # Main Bash script
+├── config/
+│   └── smartwmrc            # User config file (editable)
+├── logs/
+│   ├── session.log          # Stores session activities
+│   └── usage_stats.log      # Tracks time spent
+├── modes/
+│   ├── coding.sh            # Setup for coding mode
+│   ├── browsing.sh          # Setup for browsing mode
+│   └── research.sh          # Setup for research mode
+├── assets/
+│   └── logo.txt             # ASCII banner/logo
+├── README.md
+└── install.sh               # Optional installer script
