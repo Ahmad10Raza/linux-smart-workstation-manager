@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # install.sh - Installer for Smart Workstation Manager
+# Setup the file path based on you linux system
 
 INSTALL_DIR="/opt/smartwm"
 BIN_LINK="/usr/local/bin/smartwm"
